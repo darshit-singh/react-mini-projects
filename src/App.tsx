@@ -1,10 +1,10 @@
-import React from 'react';
-import './App.css';
+import React from "react";
+import "./App.css";
 
 function App() {
   return (
     <div className="App">
-      <p className='text-5xl'>Hello world</p>
+      <p className="text-4xl">Hello world</p>
     </div>
   );
 }
